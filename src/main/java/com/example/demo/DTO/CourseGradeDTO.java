@@ -1,6 +1,7 @@
 package com.example.demo.DTO;
 
 import com.example.demo.Models.Grade;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
